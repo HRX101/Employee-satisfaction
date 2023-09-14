@@ -4,6 +4,9 @@ By interpreting and providing an explanation of ML Model's predictions, XAI ( Ex
 
 The project's copyright has been secured in 2023.
 
+Image:- 
+[EmpSatisfaction Finder.pdf](https://github.com/HRX101/Employee-satisfaction/files/12610952/EmpSatisfaction.Finder.pdf)
+
 
 For user usage here is web-app link: https://empsatisfaction.streamlit.app/
 

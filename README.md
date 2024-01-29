@@ -14,6 +14,7 @@ https://drive.google.com/file/d/1I0zFxP9TRW01dALV-0OSL1zxq9Hv98r7/view?usp=shari
 
 
 For user usage here is web-app link: https://empsatisfaction.streamlit.app/
+(If web-site doesn't open, it means the app is sleeping as it doesn't get any traffic, so click on :- "Yes, get this app back up!")
 
 Video Process:- 
 
